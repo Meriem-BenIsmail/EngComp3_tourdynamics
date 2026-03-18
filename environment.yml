@@ -7,6 +7,6 @@ dependencies:
   - matplotlib
   - numpy
   - imageio
-  - imageio-ffmpeg
+  # - imageio-ffmpeg
   - pandas
   - urllib3
