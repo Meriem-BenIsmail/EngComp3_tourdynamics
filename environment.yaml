@@ -1,0 +1,12 @@
+name: tours-dynamic
+channels:
+  - emscripten-forge
+  - conda-forge
+dependencies:
+  - xeus-python
+  - matplotlib
+  - numpy
+  - imageio
+  - imageio-ffmpeg
+  - pandas
+  - urllib3
